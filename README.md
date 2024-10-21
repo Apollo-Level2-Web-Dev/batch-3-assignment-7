@@ -176,8 +176,9 @@ Retrieve the names of students whose email addresses contain 'example.com'.
 
 ### Deadline:
 
--  ~~60 Marks (17 August, 2023 Until 11.59 PM)~~
--  ~~50 Marks (18 August, 2023 Until 11.59 PM)~~
+-  60 Marks (24 October, 2024 Until 11.59 PM)
+-  50 Marks (25 October, 2024 Until 11.59 PM)
+-  30 Marks After 25 October, 2024 Until 11.59 PM
 
 ---
 
