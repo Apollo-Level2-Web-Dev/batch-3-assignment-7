@@ -84,6 +84,8 @@ Insert a new student record with the following details:
 -  Backend-Mark: YourMark
 -  Status: NULL
 
+**Note:** You can choose random values for the frontend_mark, backend_mark, and other fields (except NULL for the status).
+
 #### Query 2:
 
 Retrieve the names of all students who are enrolled in the course titled 'Next.js'.
