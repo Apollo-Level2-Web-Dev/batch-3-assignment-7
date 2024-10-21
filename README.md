@@ -71,7 +71,7 @@ In this assignment, you will work with PostgreSQL, a powerful open-source relati
 
 ---
 
-### Execute SQL queries to fulfill the ensuing tasks:
+### Run SQL queries to complete the following tasks:
 
 #### Query 1:
 
