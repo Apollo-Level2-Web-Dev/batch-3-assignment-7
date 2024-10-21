@@ -1,4 +1,4 @@
-# PostgreSQL Assignment
+# Assignment-7 (PostgreSQL)
 
 **Assignment Description**  
 In this assignment, you will work with PostgreSQL, a powerful open-source relational database management system. Your task involves creating 03 tables based on the provided sample data and then writing and executing queries to perform various database operations such as creating, reading, updating, and deleting data. Additionally, you will explore concepts like LIMIT and OFFSET, JOIN operations, GROUP BY, aggregation, and LIKE.
