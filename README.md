@@ -182,4 +182,10 @@ Retrieve the names of students whose email addresses contain 'example.com'.
 
 ---
 
+### Submission:
+
+Submit only the GitHub repository link containing your solution file
+
+---
+
 **Important Note:** Attendance in this assignment is obligatory for all participants. As a follow-up, there will be two further assignments involving Prisma and PostgreSQL backends, specifically tailored for individuals with aspirations of becoming proficient full-stack developers. Approach this task with a thorough perspective and a commitment to achieving excellence. Wishing you the best of luck in your endeavors!
